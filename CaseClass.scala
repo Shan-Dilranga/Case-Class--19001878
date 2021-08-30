@@ -61,4 +61,5 @@ object CaseClass extends App{
       val p8=p2.invert()
       println("p2\' : " + p8)
 
+  
 }
